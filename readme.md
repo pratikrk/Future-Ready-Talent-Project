@@ -141,7 +141,7 @@ Due to time contraints, I was inspired by a particular design and used a templat
 ### Static Web App
 We had to use static web app in order to deploy our website. 
 
-Here is a link to my website: https://gentle-meadow-05bb21c1e.azurestaticapps.net/
+Here is a link to my website: [https://gentle-meadow-05bb21c1e.azurestaticapps.net/](https://victorious-ocean-0b1502910.1.azurestaticapps.net/)
 
 ## Back-End Development
 
